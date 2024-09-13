@@ -5,7 +5,7 @@ This project aims to detect credit card fraud using machine learning techniques.
 ## Features
 
 - **Data Analysis:** Processing and analyzing transaction data.
-- **Machine Learning Modeling:** Using machine learning algorithms like Logistic Regression and Random Forest.
+- **Machine Learning Modeling:** Using machine learning algorithms like Logistic Regression , Random Forest and Voting Classifier.
 - **Model Evaluation:** Assessing model performance using metrics such as accuracy, ROC AUC, and others.
 - **Data Visualization:** Plotting results and performance metrics of the model.
 - 
