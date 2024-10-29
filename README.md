@@ -15,10 +15,9 @@ The project leverages various machine learning algorithms, particularly Logistic
 
 ### Key Features:
 
-- Implementation of Logistic Regression for fraud detection.
+- Implementation of Logistic Regression and Random Forest for fraud detection
 - Comprehensive evaluation metrics to assess model performance.
 - Visualizations of precision-recall curves to identify optimal thresholds.
-- User-friendly interface for easy integration and usage.
 
 ### Performance Metrics:
 
