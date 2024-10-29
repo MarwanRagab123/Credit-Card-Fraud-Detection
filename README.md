@@ -25,5 +25,7 @@ The project leverages various machine learning algorithms, particularly Logistic
 - **Logistic Regression - Accuracy:** 0.9871
 - **Logistic Regression - F1 Score:** 0.9871
 -  **Logistic Regression - Average Precision:** 0.9980
--  **Logistic Regression - Confusion Matrix:
+-   **Logistic Regression - Classification Report:**
 -  ![clss](https://github.com/user-attachments/assets/59b12a53-bf28-4121-b30e-bdd8a435163b)
+-  **Logistic Regression - Confusion Matrix:**
+- ![clss2](https://github.com/user-attachments/assets/8a9279ef-7fdc-4664-a7bb-a2641b9f010a)
